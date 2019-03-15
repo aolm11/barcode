@@ -227,3 +227,5 @@ Barcode Generation Class Copyright:<br>
 Nicola Asuni<br>
 Tecnick.com LTD<br>
 www.tecnick.com
+
+Edited
